@@ -1,0 +1,147 @@
+Code,Name,Day_low,Day_high,Price,Previous_price,Volume
+EGAD,"Eaagads Ltd
+",13.00,13.00,13.00,13.00,-
+KUKZ,"Kakuzi Plc
+",355.25,355.25,355.25,355.25,-
+KAPC,"Kapchorua Tea Kenya Plc
+",259.25,265.00,261.50,260.25,400
+LIMT,"Limuru Tea Plc
+",380.00,380.00,380.00,380.00,-
+SASN,"Sasini Plc
+",18.90,19.00,18.95,18.95,"2,700"
+WTK,"Williamson Tea Kenya Plc
+",265.00,265.00,265.00,271.00,100
+CGEN,"Car and General (K) Ltd
+",22.55,22.55,22.55,22.55,-
+ABSA,"ABSA Bank Kenya Plc
+",13.95,14.15,14.05,14.00,"52,100"
+BKG,"BK Group Plc
+",35.50,35.50,35.50,36.00,100
+COOP,"Co-operative Bank of Kenya Ltd
+",12.70,12.95,12.80,12.70,"1,263,000"
+DTK,"Diamond Trust Bank Kenya Ltd
+",46.30,46.50,46.45,46.50,"30,300"
+EQTY,"Equity Group Holdings Plc
+",41.00,43.00,42.25,42.25,"145,400"
+HFCK,"HF Group Ltd
+",4.00,4.21,4.00,4.03,"44,200"
+IMH,"I & M Holdings Plc
+",21.00,21.65,21.60,21.55,"17,300"
+KCB,"KCB Group Plc
+",31.00,32.00,31.35,31.25,"48,400"
+NBK,"National Bank of Kenya Ltd
+",4.12,4.12,4.12,4.12,-
+NCBA,"NCBA Group Plc
+",41.00,41.20,41.20,41.10,"62,200"
+SBIC,"Stanbic Holdings Plc
+",114.25,114.75,114.50,114.25,700
+SCBK,"Standard Chartered Bank Kenya Ltd
+",192.00,194.00,193.50,194.00,"9,000"
+DCON,"Deacons (East Africa) Plc
+",0.45,0.45,0.45,0.45,-
+EVRD,"Eveready East Africa Ltd
+",1.19,1.34,1.25,1.22,"4,100"
+XPRS,"Express Kenya Plc
+",3.22,3.22,3.22,3.22,-
+HBE,"Homeboyz Entertainment Plc
+",4.66,4.66,4.66,4.66,-
+KQ,"Kenya Airways Plc
+",3.83,3.83,3.83,3.83,-
+LKL,"Longhorn Publishers Plc
+",2.09,2.09,2.09,2.09,-
+NBV,"Nairobi Business Ventures Ltd
+",2.16,2.30,2.27,2.19,"1,600"
+NMG,"Nation Media Group Plc
+",16.50,16.70,16.70,16.90,"6,500"
+SMER,"Sameer Africa Plc
+",1.87,2.15,1.94,2.05,"66,300"
+SGL,"Standard Group Plc
+",6.80,6.80,6.80,6.80,-
+TPSE,"TPS Eastern Africa (Serena) Ltd
+",14.00,14.00,14.00,14.00,-
+UCHM,"Uchumi Supermarket Plc
+",0.19,0.19,0.19,0.18,"1,600"
+SCAN,"WPP ScanGroup Plc
+",2.06,2.21,2.07,2.20,"23,900"
+ARM,"ARM Cement Plc
+",5.55,5.55,5.55,5.55,-
+BAMB,"Bamburi Cement Ltd
+",42.00,44.50,43.45,41.80,"32,500"
+CRWN,"Crown Paints Kenya Plc
+",35.00,35.30,35.15,35.30,200
+CABL,"East African Cables Plc
+",0.89,0.99,0.90,0.92,"43,200"
+PORT,"East African Portland Cement Ltd
+",4.52,4.64,4.55,4.99,"26,600"
+KEGN,"Kenya Electricity Generating Company Plc
+",2.37,2.45,2.38,2.39,"592,200"
+KPLC-P4,"KPLC-P4
+",4.00,4.00,4.00,4.00,-
+KPLC-P7,"KPLC-P7
+",6.00,6.00,6.00,6.00,-
+KPLC,"Kenya Power and Lighting Company Plc
+",1.60,1.76,1.66,1.66,"83,200"
+TOTL,"TotalEnergies Marketing Kenya Plc
+",19.45,22.00,19.60,21.50,"45,600"
+UMME,"Umeme Ltd
+",14.90,15.45,15.30,15.45,"11,600"
+BRIT,"Britam Holdings Plc
+",5.44,6.48,5.72,6.04,"9,600"
+CIC,"CIC Insurance Group Ltd
+",2.14,2.30,2.25,2.13,"168,900"
+JUB,"Jubilee Holdings Ltd
+",172.00,179.00,174.25,179.00,300
+KNRE,"Kenya Re-Insurance Corporation Ltd
+",1.39,1.44,1.40,1.42,"1,366,200"
+LBTY,"Liberty Kenya Holdings Ltd
+",5.30,5.30,5.30,5.30,"1,400"
+SLAM,"Sanlam Kenya Plc
+",6.10,6.28,6.20,5.94,200
+CTUM,"Centum Investment Company Plc
+",8.50,8.76,8.68,8.72,"32,900"
+HAFR,"Home Afrika Ltd
+",0.31,0.34,0.31,0.32,"11,500"
+KURV,"Kurwitu Ventures Ltd
+","1,500.00","1,500.00","1,500.00","1,500.00",-
+OCH,"Olympia Capital Holdings Ltd
+",2.69,2.73,2.70,2.98,"20,400"
+TCL,"Trans-Century Plc
+",0.40,0.44,0.40,0.41,"409,700"
+NSE,"Nairobi Securities Exchange Plc
+",5.80,6.14,5.82,5.86,"12,500"
+AMAC,"Africa Mega Agricorp Plc
+",19.50,19.50,19.50,19.50,-
+BOC,"BOC Kenya Plc
+",89.00,89.00,89.00,89.00,-
+BAT,"British American Tobacco Kenya Plc
+",350.00,355.00,354.75,353.75,"4,600"
+CARB,"Carbacid Investments Plc
+",17.50,17.90,17.70,17.90,"21,800"
+EABL,"East African Breweries Ltd
+",142.00,146.00,142.00,146.75,"77,400"
+FTGH,"Flame Tree Group Holdings Ltd
+",1.18,1.18,1.18,1.28,"1,900"
+MSC,"Mumias Sugar Company Ltd
+",0.27,0.27,0.27,0.27,-
+UNGA,"Unga Group Ltd
+",12.05,12.55,12.40,12.55,300
+SCOM,"Safaricom Plc
+",17.30,17.80,17.45,17.30,"1,359,700"
+LAPR,"Laptrust Imara Income-REIT
+",20.00,20.00,20.00,20.00,-
+GLD,"ABSA NewGold ETF
+","2,920.00","2,920.00","2,920.00","2,920.00",-
+^N10I,"NSE 10-Share Index
+","1,115.92","1,115.92","1,115.92","1,117.39",-
+^N20I,"NSE 20-Share Index
+","1,655.48","1,655.48","1,655.48","1,656.50",-
+^N25I,"NSE 25-Share Index
+","2,856.21","2,856.21","2,856.21","2,861.04",-
+^NASI,"NSE All-Share Index
+",109.62,109.62,109.62,109.49,-
+^NBDI,"NSE Bonds Index
+","1,039.61","1,039.61","1,039.61","1,040.12",-
+^ZKEQTK,"Zamara Kenya Equity Index (KES)
+","2,052.61","2,052.61","2,052.61","2,058.08",-
+^ZKEQTU,"Zamara Kenya Equity Index (USD)
+","1,370.00","1,370.00","1,370.00","1,370.99",-
