@@ -3,11 +3,11 @@
 This is a web scraper for NSE (Nairobi Securities Exchange). 
 The data scraped can be found in the data folder.
 
-Setup
+**Setup
 
 This was created using python 3.10. To install required dependencies run:
 
-pip install -r requirements.txt
+<pre>pip install -r requirements.txt</pre>
 
 The src folder contains four modules:
 trading_days.py: This module takes in month and year as input and returns a list of days in which trading would typically happen i.e. weekdays and non-holidays.
@@ -21,10 +21,10 @@ Each csv contains daily prices for all the companies for that day.
 Code | Name | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price | Volume Traded
 
 To run the scraper
-python scraper.py
+<pre> python scraper.py </pre>
 Change input year and month accordingly
 To transfer the csv data to Postrgresql run:
-python to_db.py
+<pre> python to_db.py </pre>
 
 Set the following input
 
