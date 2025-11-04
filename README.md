@@ -3,7 +3,7 @@
 This is a web scraper for NSE (Nairobi Securities Exchange). 
 The data scraped can be found in the data folder.
 
-** Setup
+**Setup**
 
 This was created using python 3.10. To install required dependencies run:
 
@@ -29,9 +29,9 @@ To transfer the csv data to Postrgresql run:
 
 Set the following input
 
-Month
-Year
-End month
+* Month
+* Year
+* End month
 
 NB: The data in this app has been gotten from 'https://live.mystocks.co.ke/'. 
 It is provided here **strictly for educational and research purposes only**.
