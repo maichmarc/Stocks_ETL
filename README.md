@@ -1,6 +1,6 @@
 ## Stocks_ETL
 
-This is a web scraper for NSE (Nairobi Securities Exchange). 
+This is a web scraper for ***NSE (Nairobi Securities Exchange)***. 
 The data scraped can be found in the data folder.
 
 **Setup**
